@@ -1,0 +1,8 @@
+<project outputDir="C:\Users\Asus\Desktop" baseDir="C:\Users\Asus\source\repos\SurvivRandomGun\SurvivRandomGun\bin\Debug" xmlns="http://confuser.codeplex.com">
+  <module path="SurvivRandomGun.exe">
+    <rule pattern="true" inherit="false">
+      <protection id="koi" />
+    </rule>
+  </module>
+<plugin>C:\Users\Asus\Desktop\KoiVM\koivm\KoiVM.Confuser.exe</plugin>
+</project>
